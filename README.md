@@ -3,14 +3,14 @@
 模仿网易云音乐网页版应用，自己写一个web music。
 
 # 目录结构
-- assets 存放静态资源
-- common 存放公共常量、数据
-- components 存放公共组件
-- network 进行网络请求的操作
-- pages 存放路由组件页面
-- router 存放 路由配置
-- store 使用redux
-- utils 存放该项目使用的工具类
+- `assets` 存放静态资源
+- `common` 存放公共常量、数据
+- `components` 存放公共组件
+- `network` 进行网络请求的操作
+- `pages` 存放路由组件页面
+- `router` 存放 路由配置
+- `store` 使用redux
+- `utils` 存放该项目使用的工具类
 
 # 项目配置
 1. 进行CSS重置，使用 normalize.css，清除body自带的边距，ul、li的样式、a标签下划线等。
