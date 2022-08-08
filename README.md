@@ -1,6 +1,6 @@
 # web Music
 
-模仿网易云音乐网页版应用，自己写一个web music。
+模仿网易云音乐网页版应用，自己写一个web music by React 全家桶。
 
 # 目录结构
 - `assets` 存放静态资源
